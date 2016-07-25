@@ -7,9 +7,9 @@ To use the script you need two files:
 The output is a series of scatterplots showing paired expression levels for each condition included.
 
 The gen_vs_gen generates a scatterplot for each pair of nodes connected on the list like this:
-   ![My image]( scatterplots_for_aracne_networks/gen-gen.png )
+   ![My image](gen-gen.png )
 
 The top_sanos_vs_todos_subtipos generates a similar plot but with all treatments included like this:
 
-   ![My image]( scatterplots_for_aracne_networks/sanosvstodos.png )
+   ![My image](sanosvstodos.png )
    
